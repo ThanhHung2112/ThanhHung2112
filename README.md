@@ -7,8 +7,8 @@
 
 # About Me
 
-👋 Hey everyone, I'm <b>[Thanh Hung](https://me.bunhere.com)</b> <br>
-<b>✨Fullstack Web Developer✨</b>
+👋 Hey everyone, I'm <b>[Thanh Hung]()</b> <br>
+
 - <img align="center" src="./images/icon/linkedin.png" title = "Twitter" alt="" height="20" /> [in/ThenHung](https://www.linkedin.com/in/thenhung/) 
 - <img align="center" src="./images/icon/medium.png" title = "Twitter" alt="" height="20" /> [medium/ThenHung](https://medium.com/@lthung2112)
 - <img align="center" src="./images/icon/devto.png" title = "Twitter" alt="" height="20" /> [kaggle/LeewanHung](https://www.kaggle.com/leewanhung).
