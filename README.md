@@ -16,11 +16,11 @@
 
 ## GitHub Streak Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thanhhung211299&theme=merko&border_radius=10)](https://git.io/streak-stats) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ThanhHung2112&theme=merko&border_radius=10)](https://git.io/streak-stats) 
 
 🚀 * 🚀 * 🚀 * 👩🏻‍🚀
 
-[![ThanhHung github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thanhung211299&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![ThanhHung github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThanhHung2112&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!--
