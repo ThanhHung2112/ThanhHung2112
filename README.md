@@ -3,11 +3,8 @@
 -----
 
 ## 🚀 what are you doing in my github ? 
------
 
-# About Me
-
-👋 Hey everyone, I'm <b>[Thanh Hung]()</b> <br>
+👋 I'm <b>[Thanh Hung]()</b>, this is my information...
 
 - <img align="center" src="./images/icon/linkedin.png" title = "Twitter" alt="" height="20" /> [in/ThenHung](https://www.linkedin.com/in/thenhung/) 
 - <img align="center" src="./images/icon/medium.png" title = "Twitter" alt="" height="20" /> [medium/ThenHung](https://medium.com/@lthung2112)
