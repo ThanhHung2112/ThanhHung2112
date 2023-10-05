@@ -5,6 +5,7 @@
 ## 🚀 what are you doing in my github ? 
 -----
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ThanhHung2112)](https://git.io/streak-stats)
 
 <!--
 **ThanhHung2112/ThanhHung2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
