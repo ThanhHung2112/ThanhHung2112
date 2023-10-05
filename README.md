@@ -20,7 +20,7 @@
 
 🚀 * 🚀 * 🚀 * 👩🏻‍🚀
 
-[![ThanhHung github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=loanngo99&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![ThanhHung github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thanhung211299&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!--
