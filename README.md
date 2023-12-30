@@ -15,7 +15,7 @@
 ## GitHub Streak Stats
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ThanhHung2112&theme=merko&border_radius=10)](https://git.io/streak-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thanhhung2112&layout=donut)](https://github.com/Thanhhung2112/github-readme-stats)   
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ThanhHung2112&theme=merko&border_radius=10)](https://git.io/streak-stats)  
 
 </div>  
 
@@ -23,7 +23,11 @@
 
 [![ThanhHung github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThanhHung2112&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<div align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thanhhung2112&layout=donut)](https://github.com/Thanhhung2112/github-readme-stats)   
 
+</div>
 <!--
 **ThanhHung2112/ThanhHung2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
