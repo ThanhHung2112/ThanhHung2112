@@ -14,7 +14,7 @@
 
 ## GitHub Streak Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ThanhHung2112&theme=merko&border_radius=10)](https://git.io/streak-stats) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ThanhHung2112&theme=merko&border_radius=10)](https://git.io/streak-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thanhhung2112&layout=donut)](https://github.com/Thanhhung2112/github-readme-stats)   
 
 🚀 * 🚀 * 🚀 * 👩🏻‍🚀
 
