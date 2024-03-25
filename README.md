@@ -12,6 +12,9 @@
 - <img align="center" src="./images/icon/kaggle.png" title = "Twitter" alt="" height="20" /> [kaggle/LeewanHung](https://www.kaggle.com/leewanhung).
 - <img align="center" src="./images/icon/mail.webp" title = "Twitter" alt="" height="20" /> lthung2112@gmail.com
 
+
+<!--
+
 ## GitHub Streak Stats
 
 <div align="center">
@@ -25,11 +28,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ThanhHung2112&theme=merko&border_radius=10)](https://git.io/streak-stats)  
 
 </div>  
-
-
-
-
-<!--
 **ThanhHung2112/ThanhHung2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 🚀 * 🚀 * 🚀 * 👩🏻‍🚀
 
