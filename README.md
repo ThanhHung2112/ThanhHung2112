@@ -5,7 +5,9 @@
 ## 🚀 what are you doing in my github ? 
 
 
-👋 I'm <b>[Thanh Hung]()</b>, this is my information...
+👋 I'm <b>[Thanh Hung]()</b>,  a fourth-year undergraduate student specializing in Artificial Intelligence, on the journey to becoming a Data Scientist.
+
+📫 Feel free to reach out to me via email for collaboration opportunities or to connect professionally.
 
 - <img align="center" src="./images/icon/linkedin.png" title = "Twitter" alt="" height="20" /> [in/ThenHung](https://www.linkedin.com/in/thenhung/) 
 - <img align="center" src="./images/icon/medium.png" title = "Twitter" alt="" height="20" /> [medium/ThenHung](https://medium.com/@lthung2112)
