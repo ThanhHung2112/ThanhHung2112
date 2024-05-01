@@ -9,13 +9,15 @@
 
 📫 Feel free to reach out to me via email for collaboration opportunities or to connect professionally.
 
-- <img align="center" src="./images/icon/linkedin.png" title = "Twitter" alt="" height="20" /> [in/ThenHung](https://www.linkedin.com/in/thenhung/) 
+- <img align="center" src="./images/icon/linkedin.png" title = "Twitter" alt="" height="20" /> [in/ThenHung](https://www.linkedin.com/in/thanhhung2112/) 
 - <img align="center" src="./images/icon/medium.png" title = "Twitter" alt="" height="20" /> [medium/ThenHung](https://medium.com/@lthung2112)
 - <img align="center" src="./images/icon/kaggle.png" title = "Twitter" alt="" height="20" /> [kaggle/LeewanHung](https://www.kaggle.com/leewanhung).
 - <img align="center" src="./images/icon/mail.webp" title = "Twitter" alt="" height="20" /> lthung2112@gmail.com
 
 
 <!--
+
+https://www.linkedin.com/in/thenhung/
 
 ## GitHub Streak Stats
 
